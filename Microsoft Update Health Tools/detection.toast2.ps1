@@ -97,4 +97,4 @@ Else
     }
     Invoke-Toast -Message ($result | ConvertTo-Json -Compress)
     Exit 0
-}
+} 
